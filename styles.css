@@ -33,7 +33,7 @@
 .raster-details {
     flex: 3;
     padding: 3em;
-    background-color: #e0e0e0;
+    background-color: #f8f6de; /* Subtle yellow resembling a sticky note */
     text-align: center;
 }
 
